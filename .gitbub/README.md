@@ -8,3 +8,4 @@
 <p aling="center">
   <img alt="estudando progrmação" src=".gitbub/paginalight.png">
 </p>
+<p> Esse e um projeto de estudo</p>

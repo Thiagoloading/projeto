@@ -4,4 +4,8 @@
 
 <p aling="center">
   <img alt="estudando progrmação" src=".gitbub/pagina.png">
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> c82939a9668102df65fcb1376b0d5d592bf03cbd
